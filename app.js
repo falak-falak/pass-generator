@@ -1,3 +1,4 @@
+//HTML DOM
 const passDisplay = document.getElementById("passDisplay");
 const slider = document.getElementById("slider");
 const sliderValue = document.querySelector(".pass-length span");
