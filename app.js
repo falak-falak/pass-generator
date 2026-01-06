@@ -47,3 +47,5 @@ function genPass() {
     }
     passDisplay.value = pass;
 }
+
+let f = 0;
