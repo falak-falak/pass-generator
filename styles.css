@@ -23,7 +23,8 @@
     max-width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background: linear-gradient(45deg, #ffa585, #455cd8);
+    /* background: linear-gradient(45deg, #ffa585, #455cd8); */
+    background: #F3A08A;
 }
 
 .pass-gen {
